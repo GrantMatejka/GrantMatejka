@@ -1,6 +1,6 @@
 ### Hi, I'm Grant Matejka 🌽
 
-Software Engineer @ Tulip Interfaces
+Software Engineer
 
 I love the puzzle, the process and the customer.
 
